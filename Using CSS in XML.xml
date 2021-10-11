@@ -1,0 +1,22 @@
+<?xml version = "1.0"?>
+<?xml-stylesheet typye="text/css" href="MyCss.css"?>
+<!--USE INTERNET EXPLORER ONLYYYY-->
+<INFO>
+    <employee id = "001">
+        <firstname>Sam</firstname>
+        <deptname>IT</deptname>
+        <salary>50000</salary>
+    </employee>
+
+    <employee id = "026">
+        <firstname>Sarah</firstname>
+        <deptname>IT</deptname>
+        <salary>35000</salary>
+    </employee>
+
+    <employee id = "056">
+        <firstname>Peter</firstname>
+        <deptname>HR</deptname>
+        <salary>20000</salary>
+    </employee>
+</INFO>
